@@ -1,0 +1,4 @@
+This file contains ideas on how we can improve forest management through technology
+1. Use drones to monitor deforestation ad detect forest fires.
+2. Raise deforestation awareness to people through the internet
+3. Have automated reforestation mechanisms like every 2 years
